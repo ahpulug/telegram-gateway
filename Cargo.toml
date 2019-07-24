@@ -1,0 +1,9 @@
+[package]
+name = "telegram-gateway"
+version = "0.1.0"
+authors = ["Attenuation <ouyangjun1999@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "1.0.5"
+serde = "*"
